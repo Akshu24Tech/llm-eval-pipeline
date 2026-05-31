@@ -29,7 +29,7 @@ jobs:
       
       - name: Upload eval report
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: eval-report
           path: eval_report.json
