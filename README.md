@@ -1,6 +1,6 @@
 # llm-eval-pipeline
 
-![CI](https://github.com/YOUR_USERNAME/llm-eval-pipeline/actions/workflows/eval.yml/badge.svg)
+![CI](https://github.com/Akshu24Tech/llm-eval-pipeline/actions/workflows/eval.yml/badge.svg)
 
 A lightweight, automated evaluation pipeline for LLM outputs — built from scratch through hands-on annotation and rubric design.
 
@@ -55,7 +55,7 @@ llm-eval-pipeline/
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-eval-pipeline.git
+git clone https://github.com/Akshu24Tech/llm-eval-pipeline.git
 cd llm-eval-pipeline
 pip install -r requirements.txt
 
